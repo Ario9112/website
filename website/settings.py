@@ -24,7 +24,7 @@ LOGIN_REDIRECT_URL = 'blog:accounts'
 SECRET_KEY = 'django-insecure-o$6cnwh@i)!#y$oa@hxqww-ryoy$%+f38yira2#*9(b2=-70x8'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
